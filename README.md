@@ -14,7 +14,7 @@ And in order to run the website we'll be using the project [lite-server](https:/
 From the build directory, on the command line run:
 ```
 lite-server
-``
+```
 
 (Or alternatively as lite-server is defined in the package.json)
 ```
